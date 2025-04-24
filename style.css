@@ -1,0 +1,27 @@
+.hide{
+    display: none;
+}
+h1{
+text-align: center;
+}
+
+
+input,button{
+ position: absolute;
+ left: 480px;
+ top: 400px;
+ font-size: 2em;
+}
+
+button{
+    left: 880px;
+}
+
+::placeholder{
+    color: black;
+    text-align: center;
+}
+body{
+    background: linear-gradient(yellow,green);
+    height: 96.9vh;
+}
